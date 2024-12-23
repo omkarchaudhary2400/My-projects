@@ -1,0 +1,44 @@
+
+BODY{
+    background-color:antiquewhite;
+}
+div{
+    background-color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+.aa{
+    display: flex-end;
+    gap: 30px;
+   text-align: right;
+}
+.mohan{
+    align-items: center;
+  
+ 
+}
+.shiv h4{
+   text-align: center;
+}
+.shiv h1{
+    text-align: center;
+}
+.mish{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.ram{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin: 5px;
+
+
+}
+.container{
+    background-color: #F0F8FF;
+    height: 300px;
+   
+}
